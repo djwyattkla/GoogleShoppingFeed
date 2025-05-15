@@ -1,4 +1,3 @@
-# GoogleShoppingFeed
 # Google Shopping Feed Pipeline (AWS + Playwright)
 
 This project automates the creation of a Google Shopping-compatible XML product feed for CustomGear using AWS Fargate, Docker, and Playwright.
